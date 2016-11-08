@@ -1,0 +1,14 @@
+{
+  "name": "borshik-istanbul-bug-demo",
+  "version": "0.0.1",
+  "dependencies": {
+    "borschik": "^1.6.1",
+    "borschik-tech-istanbul": "^0.3.0",
+    "enb": "^1.4.1",
+    "enb-bem-techs": "^2.2.1",
+    "enb-borschik": "^2.4.0"
+  },
+  "scripts": {
+    "build": "./node_modules/enb/bin/enb make"
+  }
+}
